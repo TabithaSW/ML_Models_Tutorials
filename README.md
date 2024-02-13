@@ -25,7 +25,7 @@ Understand regression analysis and how to apply linear regression, polynomial re
 Delve into unsupervised learning techniques such as K-means clustering and hierarchical clustering. Learn how to identify patterns and group data points based on similarities.
 
 - Natural Language Processing (NLP)
-- 
+
 Discover the basics of Natural Language Processing (NLP) and how to preprocess text data, perform sentiment analysis, and build text classification models using techniques like bag-of-words and word embeddings.
 
 - Time Series Forecasting
